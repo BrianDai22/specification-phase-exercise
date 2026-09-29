@@ -21,7 +21,98 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
+### Students
+
+#### Adhith
+**User Type:** Student
+
+**Goals / Needs**
+- Wants the application to be intuitive and easy to understand without requiring prior technical knowledge.
+- Wants generated slides to summarize spoken information into concise, readable points.
+- Wants generated presentations to include relevant images and diagrams that help communicate the subject visually.
+- Wants the presentation to remain organized when the speaker transitions between different topics.
+
+**Problems / Frustrations**
+- Did not initially know how to start using The Slide Machine because the process was not intuitive to him as a first-time user.
+- Felt that the generated slides could have included more images and diagrams.
+- Found that a large amount of spoken information could be condensed into only a small number of bullet points, potentially leaving out useful detail.
+- Experienced a major context switch from pickleball to League of Legends that caused The Slide Machine to begin generating content around the new topic, showing that topic changes can substantially alter the direction of the generated deck.
+
+**Observations While Using The Slide Machine**
+- Successfully gave an unscripted presentation involving both pickleball and League of Legends.
+- The Slide Machine recognized his transition between the two subjects and changed the generated content accordingly.
+- He liked the formatting of the generated slides.
+- He liked how the application transformed his speech into succinct bullet points.
+- He wanted the generated deck to make greater use of visual material such as images and diagrams.
+
+
+#### Aidan
+**User Type:** Student
+
+**Goals / Needs**
+- Wants slides to generate quickly so that presentations can be created efficiently, especially when working under a deadline.
+- Wants generated slide content to be accurate and emphasize the most important information from the presentation.
+- Wants greater control over how information is arranged and formatted so that the generated presentation matches how he wants to communicate his ideas.
+- Wants to easily modify individual slide elements, including text and images, without having to regenerate an entire slide.
+- Wants generated slides to remain visually and structurally consistent as the presentation moves between different topics.
+- Wants a wider variety of slide layouts and formatting options so that presentations can be customized for different purposes.
+- Wants the overall process to require as few manual corrections and edits as possible.
+- Wants The Slide Machine to be fast and easy enough to use as an alternative to traditional presentation tools.
+
+**Problems / Frustrations**
+- Generated content may require manual corrections when the information is inaccurate or does not emphasize the intended points.
+- Limited control over the arrangement of generated content can make it difficult to match the presentation to the speaker's intended structure.
+- Editing individual parts of a generated slide can be inconvenient if making a small change requires regenerating more of the slide than necessary.
+- Limited layout and formatting choices can restrict how much the presentation can be customized.
+- Generated images may not always match the speaker's intended visual, creating a need to replace or modify them.
+- Topic changes can create inconsistencies that require the speaker to manually reorganize or adjust slides.
+- Repeated manual edits reduce the time-saving benefit of automatically generating a presentation.
+- Speed and ease of use are particularly important when creating a presentation under a deadline.
+
+### Instructors
+
+#### [Instructor Name]
+**User Type:** Instructor
+
+**Goals / Needs**
+- [Goal or need identified during interview]
+- [Goal or need identified during interview]
+- [Goal or need identified during interview]
+- [Goal or need identified during interview]
+
+**Problems / Frustrations**
+- [Problem or frustration identified during interview]
+- [Problem or frustration identified during interview]
+- [Problem or frustration identified during interview]
+- [Problem or frustration identified during interview]
+
+**Observations While Using The Slide Machine**
+- [How did they approach starting a lecture?]
+- [How did they react to slides being generated while speaking?]
+- [Did the generated slides accurately represent what they taught?]
+- [What functionality did they expect but could not find?]
+
+
+#### [Instructor Name]
+**User Type:** Instructor
+
+**Goals / Needs**
+- [Goal or need identified during interview]
+- [Goal or need identified during interview]
+- [Goal or need identified during interview]
+- [Goal or need identified during interview]
+
+**Problems / Frustrations**
+- [Problem or frustration identified during interview]
+- [Problem or frustration identified during interview]
+- [Problem or frustration identified during interview]
+- [Problem or frustration identified during interview]
+
+**Observations While Using The Slide Machine**
+- [How did they approach starting a lecture?]
+- [How did they react to slides being generated while speaking?]
+- [Did the generated slides accurately represent what they taught?]
+- [What functionality did they expect but could not find?]
 
 ## Product Vision Statement
 
