@@ -71,48 +71,41 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 ### Instructors
 
-#### [Instructor Name]
+#### Thanos Papadimitriou
 **User Type:** Instructor
 
 **Goals / Needs**
-- [Goal or need identified during interview]
-- [Goal or need identified during interview]
-- [Goal or need identified during interview]
-- [Goal or need identified during interview]
+- Wants important concepts and instructional details from his lecture material to be preserved when slides are generated.
+- Wants generated slides to maintain the logical structure and progression of the concepts he teaches.
+- Wants students to retain access to deeper explanations and context even when generated slides summarize the lecture into concise points.
+- Wants specific terminology, frameworks, and distinctions used in his course to remain accurately represented in generated materials.
+- Wants visual frameworks, examples, and supporting material to remain connected to the concepts they are intended to explain.
+- Wants generated course materials to remain useful to students after the lecture as a resource for reviewing and understanding what was taught.
 
 **Problems / Frustrations**
-- [Problem or frustration identified during interview]
-- [Problem or frustration identified during interview]
-- [Problem or frustration identified during interview]
-- [Problem or frustration identified during interview]
+- A large amount of detailed instructional material can be compressed into a much smaller number of generated slides, potentially removing useful context.
+- Distinct concepts can be combined into broader summaries, reducing the level of detail available to students after class.
+- Concise generated slides may not contain enough explanation for a student who did not fully understand a concept during the lecture.
+- Important relationships between concepts, examples, and frameworks may become less clear when the original material is summarized.
+- Students relying only on the generated deck may have difficulty recovering details that were present in the original lecture material but omitted from the slides.
+- Additional AI explanations could create confusion if they do not remain consistent with the terminology and frameworks used by the instructor.
 
-**Observations While Using The Slide Machine**
-- [How did they approach starting a lecture?]
-- [How did they react to slides being generated while speaking?]
-- [Did the generated slides accurately represent what they taught?]
-- [What functionality did they expect but could not find?]
-
-
-#### [Instructor Name]
+#### Katherine
 **User Type:** Instructor
 
 **Goals / Needs**
-- [Goal or need identified during interview]
-- [Goal or need identified during interview]
-- [Goal or need identified during interview]
-- [Goal or need identified during interview]
+- Wants the system to capture important details from spoken ideas while removing unnecessary filler and "brain fog."
+- Wants generated presentations to organize ideas into a logical structure even when the speaker presents their thoughts out of order.
+- Wants an opportunity to review and rearrange the presentation structure before the system commits to generating the final slides.
+- Wants the system to prioritize producing a well-structured presentation the first time rather than requiring repeated manual edits afterward.
+- Is willing to accept additional generation latency if it results in a more accurate and logically organized final presentation.
 
 **Problems / Frustrations**
-- [Problem or frustration identified during interview]
-- [Problem or frustration identified during interview]
-- [Problem or frustration identified during interview]
-- [Problem or frustration identified during interview]
-
-**Observations While Using The Slide Machine**
-- [How did they approach starting a lecture?]
-- [How did they react to slides being generated while speaking?]
-- [Did the generated slides accurately represent what they taught?]
-- [What functionality did they expect but could not find?]
+- Speaking naturally or "brain dumping" does not always produce ideas in the order they should appear in a presentation.
+- The generated deck can preserve an awkward ordering of ideas rather than recognizing how they should logically be organized.
+- Topic transitions can be lost, causing later slides to feel disconnected or random compared with earlier material.
+- The system moves too directly from spoken thoughts to finished slides, with little opportunity to reorganize the structure in between.
+- Rearranging the presentation after generation can require unnecessary editing that could have been avoided before slide creation.
 
 ## Product Vision Statement
 
@@ -147,8 +140,52 @@ See instructions. Delete this line and place your Product Vision Statement here 
 9. As a student, I want the presentation tool to require fewer manual edits so that I can create slides more efficiently.
 10. As a student, I want the presentation tool to be as fast and easy to use as other presentation tools so that I can choose it when I am working under a deadline.
 
+### Instructor User Stories - Interview 1
 
+ 1. As an instructor, I want the system to capture the important details from my speech so that useful information is preserved even when I speak informally.
 
+2. As an instructor, I want the system to remove unnecessary filler from my speech so that the resulting presentation remains clear and focused.
+
+3. As an instructor, I want the system to recognize when my ideas were spoken out of order so that the generated presentation still follows a logical structure.
+
+4. As an instructor, I want related ideas to be grouped together so that the presentation does not feel disorganized when my spoken thoughts jump between topics.
+
+5. As an instructor, I want transitions between different topics to be preserved so that students can understand how one part of the presentation connects to the next.
+
+6. As an instructor, I want to preview an outline of my presentation before the final slides are generated so that I can verify the overall structure.
+
+7. As an instructor, I want to rearrange topics in the generated outline before slide creation so that I can correct the order without manually editing many finished slides.
+
+8. As an instructor, I want to approve the organization of my presentation before final generation so that the resulting slides better reflect how I intended to teach the material.
+
+9. As an instructor, I want the system to prioritize getting the presentation structure correct on the first generation so that I do not have to repeatedly edit the final deck.
+
+10. As an instructor, I want the option to trade additional generation time for better organization so that I can prioritize presentation quality when speed is less important.
+
+### Instructor User Stories - Interview 2
+1. As an instructor, I want generated slides to preserve the key concepts from my lecture so that students do not lose important information when my teaching is summarized.
+
+2. As an instructor, I want students to have access to the deeper explanations behind concise generated slides so that they can recover context that could not fit on the slide itself.
+
+3. As an instructor, I want students to be able to ask questions about concepts they do not understand so that confusion can be addressed after the lecture.
+
+4. As an instructor, I want answers to student questions to use my actual lecture material so that explanations remain consistent with what I taught in class.
+
+5. As an instructor, I want students to be able to ask follow-up questions about an explanation so that they can progressively work through concepts they are struggling to understand.
+
+6. As an instructor, I want students to be able to ask for a concept to be explained in a different or simpler way so that students with different levels of understanding can still learn from my material.
+
+7. As an instructor, I want AI-generated explanations to preserve the terminology, frameworks, and examples used in my lecture so that students are not taught conflicting versions of course concepts.
+
+8. As an instructor, I want students to be able to trace an AI-generated explanation back to the relevant lecture material so that they can review the original context behind the answer.
+
+9. As an instructor, I want the system to identify when a student's question was not addressed in my lecture so that the AI does not incorrectly present outside information as something I taught.
+
+10. As an instructor, I want supplemental AI knowledge to be clearly distinguished from information taken from my lecture so that students understand what was actually covered in class.
+
+11. As an instructor, I want control over whether the AI can supplement my lecture with outside knowledge so that I can determine how closely student explanations should remain grounded in my course.
+
+12. As an instructor, I want students to continue learning from my lecture materials after class so that the generated deck functions as more than a static summary of the presentation.
 
 ## Activity Diagrams
 
