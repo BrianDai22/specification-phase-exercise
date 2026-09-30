@@ -157,7 +157,7 @@ Our proposed contribution is letting students study through a conversation about
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Our vision is to extend The Slide Machine with a lecture-grounded AI tutor that allows students to ask questions about generated course material and receive interactive explanations based on the instructor’s actual lecture transcript, while giving instructors control over how their material is represented.
 
 ## User Requirements
 
