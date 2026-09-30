@@ -238,16 +238,22 @@ Our vision is to extend The Slide Machine with a lecture-grounded AI tutor that 
 ## Activity Diagrams
 
 <img width="415" height="595" alt="Screenshot 2026-09-30 at 2 34 42 AM" src="https://github.com/user-attachments/assets/bdc08c1d-a702-4f12-b1e7-c1ee726aacdf" />
-<img width="414" height="593" alt="Screenshot 2026-09-30 at 2 34 48 AM" src="https://github.com/user-attachments/assets/210fb846-35fb-487e-9fa1-96a82442731a" />
-
+<img width="415" height="595" alt="Screenshot 2026-09-30 at 2 34 48 AM" src="https://github.com/user-attachments/assets/210fb846-35fb-487e-9fa1-96a82442731a" />
+<img width="415" height="595" alt="uml-01-details" src="https://github.com/user-attachments/assets/f83beb94-7779-40ce-8dd4-202484ec0109" />
+<img width="415" height="595" alt="uml-02-source" src="https://github.com/user-attachments/assets/ad80c324-fbdc-4761-8a1a-e187cd5a55a6" />
 
 ## Wireframes
 
 <img width="6120" height="12200" alt="Instructor screens - start at Lecture complete" src="https://github.com/user-attachments/assets/3b5af288-b75a-448b-8ba4-cafc7a75f641" />
+<img width="5776" height="7140" alt="wireframes" src="https://github.com/user-attachments/assets/42585647-cd70-4032-8f1e-30c7ea2b0ecd" />
 
 ## Clickable Prototype
 
+INSTRUCTOR PROTOTYPE
 https://www.figma.com/proto/3RlFLiHChOGwHDnM63JIcM/The-Slide-Machine-%E2%80%94-Instructor-Wireframes---UML?node-id=43-659&t=vVFPLaibprTOmkK8-1&scaling=min-zoom&content-scaling=fixed&page-id=43%3A624&starting-point-node-id=43%3A1777
+
+STUDENT PROTOTYPE
+https://www.figma.com/proto/zWcPAPwWiOsnpSfCbdCRJH/The-Slide-Machine-%E2%80%94-Student-Study-%E2%80%94-UML---Wireframes?node-id=2-4&viewport=116%2C156%2C0.16&t=wUnmHs7kbavR1oIz-0&scaling=contain&content-scaling=fixed&starting-point-node-id=15%3A10
 
 ## Stakeholder Demo
 
