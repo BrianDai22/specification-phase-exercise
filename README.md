@@ -261,4 +261,4 @@ See instructions. Delete this line and place a link to the deck The Slide Machin
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+https://docs.google.com/forms/d/e/1FAIpQLSfAbtlyfNYnXjHc7NTY2PwZmVTVWu4hXXa1iIld0gjjFjErJA/viewform
