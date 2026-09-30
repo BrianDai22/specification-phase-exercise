@@ -195,7 +195,7 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+<img width="6120" height="12200" alt="Instructor screens - start at Lecture complete" src="https://github.com/user-attachments/assets/3b5af288-b75a-448b-8ba4-cafc7a75f641" />
 
 ## Clickable Prototype
 
