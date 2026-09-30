@@ -189,9 +189,8 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
-<img width="414" height="593" alt="Screenshot 2026-09-30 at 2 34 48 AM" src="https://github.com/user-attachments/assets/210fb846-35fb-487e-9fa1-96a82442731a" />
 <img width="415" height="595" alt="Screenshot 2026-09-30 at 2 34 42 AM" src="https://github.com/user-attachments/assets/bdc08c1d-a702-4f12-b1e7-c1ee726aacdf" />
+<img width="414" height="593" alt="Screenshot 2026-09-30 at 2 34 48 AM" src="https://github.com/user-attachments/assets/210fb846-35fb-487e-9fa1-96a82442731a" />
 
 
 ## Wireframes
