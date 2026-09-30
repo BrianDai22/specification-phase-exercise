@@ -257,7 +257,7 @@ https://www.figma.com/proto/zWcPAPwWiOsnpSfCbdCRJH/The-Slide-Machine-%E2%80%94-S
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+(https://theslidemachine.com/d/untitled-ca224d07)
 
 ## Exit Ticket
 
