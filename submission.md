@@ -199,7 +199,7 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/3RlFLiHChOGwHDnM63JIcM/The-Slide-Machine-%E2%80%94-Instructor-Wireframes---UML?node-id=43-659&t=vVFPLaibprTOmkK8-1&scaling=min-zoom&content-scaling=fixed&page-id=43%3A624&starting-point-node-id=43%3A1777
 
 ## Stakeholder Demo
 
